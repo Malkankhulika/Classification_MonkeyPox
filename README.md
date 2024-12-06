@@ -46,6 +46,6 @@ Folder ini memiliki subfolder bernama "FOLDS_AUG," yang berisi gambar augmented 
 
 
 ## Referensi
-[1] Mulyana, A., et al., Cara Mudah Mempelajari Algoritma dan Struktur Data. Edisi Pertama. Yogyakarta : DIVA Press, 2021
-
-[2] Zein, A. dan Eriana, E.S., Algoritma dan Struktur Data. Edisi Pertama. Tangerang Selatan : Unpam Press, 2022.
+[1] https://builtin.com/machine-learning/mobilenet
+[2] https://en.wikipedia.org/wiki/2022%E2%80%932023_mpox_outbreak
+[3] https://keras.io/api/applications/mobilenet/

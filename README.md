@@ -31,19 +31,19 @@ Folder ini memiliki subfolder bernama "FOLDS_AUG," yang berisi gambar augmented 
 
 
 ## Full code Screenshot:
-1. getData
+1.  PROGRAM/Utils/getData.py
    
 ![image](https://github.com/user-attachments/assets/bcf800eb-5123-437e-8bc9-9b8ac9fe6748)
 
 
 
-2. Train
+2. PROGRAM/model/Train.py
 
 ![image](https://github.com/user-attachments/assets/ea5e2724-a740-4736-b61c-d7acdb5accba)
 
 
 
-3. Test
+3. PROGRAM/model/Test.py
    
 ![image](https://github.com/user-attachments/assets/a04993c7-8ac2-4a84-8f55-f39e2636050b)
 

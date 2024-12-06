@@ -58,14 +58,14 @@ Output di atas memberikan gambaran lengkap tentang distribusi data dalam dataset
 ![image](https://github.com/user-attachments/assets/7927d1be-4a9d-4cf4-8f84-e294367f4128)
 
 Log Epoch
-Epoch 1: Model mulai belajar, tetapi masih kesulitan memahami data. Validation accuracy mendekati train accuracy, menunjukkan generalisasi awal yang baik.
-Epoch 5: Model berhasil mencapai train accuracy yang tinggi (83%) dengan validation accuracy 78%. Performa validasi yang mendekati pelatihan menunjukkan model tidak terlalu overfitting.
+- Epoch 1: Model mulai belajar, tetapi masih kesulitan memahami data. Validation accuracy mendekati train accuracy, menunjukkan generalisasi awal yang baik.
+- Epoch 5: Model berhasil mencapai train accuracy yang tinggi (83%) dengan validation accuracy 78%. Performa validasi yang mendekati pelatihan menunjukkan model tidak terlalu overfitting.
 
 ![image](https://github.com/user-attachments/assets/0fa8dc38-0045-47a3-b674-706161641f63)
 
 Grafik Loss
-Training Loss (Pink): Menurun secara konsisten, menunjukkan bahwa model semakin baik dalam meminimalkan kesalahan pada data pelatihan.
-Validation Loss (Ungu): Menurun dengan pola serupa, tetapi memiliki fluktuasi kecil, yang merupakan pola umum validasi.
+- Training Loss (Pink): Menurun secara konsisten, menunjukkan bahwa model semakin baik dalam meminimalkan kesalahan pada data pelatihan.
+- Validation Loss (Ungu): Menurun dengan pola serupa, tetapi memiliki fluktuasi kecil, yang merupakan pola umum validasi.
 
 3. Test
 ![image](https://github.com/user-attachments/assets/26b0a820-f049-400e-9eba-21f31104b4e9)

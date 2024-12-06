@@ -53,7 +53,8 @@ Folder ini memiliki subfolder bernama "FOLDS_AUG," yang berisi gambar augmented 
 ![image](https://github.com/user-attachments/assets/64cd57eb-3fb4-4a29-b2de-a8ae3393b831)
 
 Output di atas memberikan gambaran lengkap tentang distribusi data dalam dataset yang dimuat.
-   
+
+
 2. Train
 ![image](https://github.com/user-attachments/assets/7927d1be-4a9d-4cf4-8f84-e294367f4128)
 
@@ -67,10 +68,23 @@ Grafik Loss
 - Training Loss (Pink): Menurun secara konsisten, menunjukkan bahwa model semakin baik dalam meminimalkan kesalahan pada data pelatihan.
 - Validation Loss (Ungu): Menurun dengan pola serupa, tetapi memiliki fluktuasi kecil, yang merupakan pola umum validasi.
 
+
 3. Test
 ![image](https://github.com/user-attachments/assets/26b0a820-f049-400e-9eba-21f31104b4e9)
 
+
+Evaluation Metrics
+- Accuracy (0.8400): Model memprediksi dengan benar 84% dari total gambar uji.
+- Precision (0.8350): Rata-rata proporsi prediksi benar untuk setiap kelas adalah 83.5%.
+- Recall (0.8400): Model dapat mengenali 84% contoh dari setiap kelas dengan benar.
+- F1-Score (0.8375): Harmoni antara Precision dan Recall menunjukkan kinerja model yang seimbang pada setiap kelas.
+
 ![image](https://github.com/user-attachments/assets/e8d8240e-05d4-4542-910c-360005a97a43)
+
+Visualisasi Confusion Matrix:
+- Heatmap menunjukkan proporsi prediksi yang benar (nilai diagonal tinggi).
+- Kesalahan dikodekan sebagai nilai non-diagonal.
+- Nilai berskala 0-1, menunjukkan proporsi relatif untuk setiap kelas.
 
 
 ## Referensi

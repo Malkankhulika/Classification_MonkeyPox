@@ -52,6 +52,7 @@ Folder ini memiliki subfolder bernama "FOLDS_AUG," yang berisi gambar augmented 
 1. getData
 ![image](https://github.com/user-attachments/assets/64cd57eb-3fb4-4a29-b2de-a8ae3393b831)
 
+Output di atas memberikan gambaran lengkap tentang distribusi data dalam dataset yang dimuat.
    
 2. Train
 ![image](https://github.com/user-attachments/assets/7927d1be-4a9d-4cf4-8f84-e294367f4128)

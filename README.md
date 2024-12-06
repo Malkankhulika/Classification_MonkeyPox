@@ -4,7 +4,7 @@
 
 ## Features
 
-- [Gambaran Umum MonkeyPoX](#GambaranumumMonkeyPox)
+- [Gambaran Umum MonkeyPox](#GambaranumumMonkeyPox)
 - [About Dataset](#AboutDataset)
 - [Code](#Code)
 - [Output](#Output)

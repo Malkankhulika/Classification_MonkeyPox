@@ -21,7 +21,6 @@ Monkeypox adalah infeksi virus yang biasanya muncul sekitar satu hingga dua ming
 
 ## About Dataset
 ![image](https://github.com/user-attachments/assets/2b8fa5bf-42ee-41fa-b6b5-4f2f4235b177)
-
 Dataset ini terdiri dari dua folder utama:
 1.	Original Images:
 Folder ini berisi subfolder bernama "FOLDS," yang terdiri dari lima fold (fold1 hingga fold5) yang digunakan untuk validasi silang 5-fold. Setiap fold memiliki subfolder terpisah untuk dataset test, train, dan validation.

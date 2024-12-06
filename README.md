@@ -57,6 +57,12 @@ Output di atas memberikan gambaran lengkap tentang distribusi data dalam dataset
 2. Train
 ![image](https://github.com/user-attachments/assets/7927d1be-4a9d-4cf4-8f84-e294367f4128)
 
+- Generalization: Model mampu generalisasi dengan baik karena validation accuracy dan train accuracy mendekati nilai yang sama serta tidak ada indikasi overfitting (validation loss tidak meningkat secara signifikan dibandingkan training loss).
+
+- Kinerja: Dengan akurasi validasi 78% setelah 5 epoch, model menunjukkan performa yang baik untuk tugas klasifikasi 6 kelas. Performa dapat lebih ditingkatkan dengan; Menambah jumlah epoch, Menggunakan teknik augmentasi tambahan, Fine-tuning hyperparameter (misalnya, learning rate).
+
+- Model MobilenetV2: Dengan transfer learning, MobileNetV2 berhasil memberikan hasil yang baik dalam waktu pelatihan singkat.
+
 ![image](https://github.com/user-attachments/assets/0fa8dc38-0045-47a3-b674-706161641f63)
 
 

@@ -4,8 +4,8 @@
 
 ## Features
 
-- [Gambaran Umum MonkeyPoX](#Gambaran Umum MonkeyPoX)
-- [About Dataset](#guided)
+- [Gambaran Umum MonkeyPoX](#Gambaranumum)
+- [About Dataset](#AboutDataset)
 - [Codingan](#Codingan)
 - [Output](#Output)
 - [Kesimpulan](#Kesimpulan)

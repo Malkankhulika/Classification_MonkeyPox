@@ -31,21 +31,40 @@ Folder ini memiliki subfolder bernama "FOLDS_AUG," yang berisi gambar augmented 
 
 
 ## Full code Screenshot:
+1. getData
+![image](https://github.com/user-attachments/assets/bcf800eb-5123-437e-8bc9-9b8ac9fe6748)
+
+
+
+2. Train
+![image](https://github.com/user-attachments/assets/ea5e2724-a740-4736-b61c-d7acdb5accba)
+
+
+
+3. Test
+![image](https://github.com/user-attachments/assets/a04993c7-8ac2-4a84-8f55-f39e2636050b)
+
 
 ## Output & Interpretasi
 1. getData
 ![image](https://github.com/user-attachments/assets/64cd57eb-3fb4-4a29-b2de-a8ae3393b831)
 
    
-3. Train
+2. Train
 ![image](https://github.com/user-attachments/assets/7927d1be-4a9d-4cf4-8f84-e294367f4128)
 
+![image](https://github.com/user-attachments/assets/0fa8dc38-0045-47a3-b674-706161641f63)
 
-4. Test
+
+3. Test
 ![image](https://github.com/user-attachments/assets/26b0a820-f049-400e-9eba-21f31104b4e9)
+
+![image](https://github.com/user-attachments/assets/e8d8240e-05d4-4542-910c-360005a97a43)
 
 
 ## Referensi
 [1] https://builtin.com/machine-learning/mobilenet
+
 [2] https://en.wikipedia.org/wiki/2022%E2%80%932023_mpox_outbreak
+
 [3] https://keras.io/api/applications/mobilenet/
